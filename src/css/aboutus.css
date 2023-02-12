@@ -1,0 +1,22 @@
+p {
+    text-align: center;
+    font-size: larger;
+    color: rgb(88, 67, 180);
+    font-weight: bold;
+    margin: 0px 200px;
+    padding: 0;
+}
+
+#container {
+    display: flex;
+    align-items: center;
+    border-top: solid black 1px;
+    
+}
+
+#aboutusimage {
+    width:700px;
+    height:500px;
+    margin-right: 40px;
+    margin-top: 30px;
+}

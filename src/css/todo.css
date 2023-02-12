@@ -1,0 +1,26 @@
+.todolist {
+    text-align: center;
+}
+
+#todocontainer {
+    margin-bottom: 100px;
+}
+
+#todocontainer p{
+    margin-top: 20px;
+}
+
+#todobtn {
+    color: blue;
+    background-color: purple;
+    margin: 0 10px;
+}
+
+ul {
+    line-height: 200%;
+}
+
+.close {
+    color: red;
+}
+
