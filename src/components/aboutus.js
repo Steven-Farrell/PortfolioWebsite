@@ -6,7 +6,7 @@ function AboutThisWebsite() {
   return (
     <Container>
       <Row className="row-content">
-        <Col className="col-6">
+        <Col className="col-sm-6">
           <h1>About This Website</h1>
           <div id="container" className="media">
             <div className="media-body align-self-center">
@@ -22,7 +22,7 @@ function AboutThisWebsite() {
               </p>
             </div>
             <img
-              className="img-fluid img-thumbnail"
+              className="img-thumbnail"
               id="aboutusimage"
               src="/images/aboutusimage.jpg"
             />

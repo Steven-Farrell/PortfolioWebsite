@@ -25,22 +25,17 @@ function Navbar() {
       </a>
       <ul className={active}>
         <li className="nav__item">
-          <a href="#" className="nav__link">
-            About This Website
+          <a href="#todolist" className="nav__link">
+            To Do List
           </a>
         </li>
         <li className="nav__item">
-          <a href="#" className="nav__link">
-            ToDo List
-          </a>
-        </li>
-        <li className="nav__item">
-          <a href="#" className="nav__link">
+          <a href="#calc" className="nav__link">
             Basic Calculator
           </a>
         </li>
         <li className="nav__item">
-          <a href="#" className="nav__link">
+          <a href="#form" className="nav__link">
             Contact
           </a>
         </li>
