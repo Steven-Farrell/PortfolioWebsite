@@ -19,7 +19,7 @@ function Navbar() {
   };
   return (
     <nav className="nav">
-      <img id="logo" src="/images/logo192.png" />
+      <img id="logo" src="/PortfolioWebsite/images/logo192.png" />
       <a href="#" className="nav__brand">
         Watch Me While I Code!
       </a>

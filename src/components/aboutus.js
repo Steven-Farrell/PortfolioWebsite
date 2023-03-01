@@ -24,7 +24,7 @@ function AboutThisWebsite() {
             <img
               className="img-thumbnail"
               id="aboutusimage"
-              src="/images/aboutusimage.jpg"
+              src="/PortfolioWebsite/images/aboutusimage.jpg"
             />
           </div>
         </Col>
